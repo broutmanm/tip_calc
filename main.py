@@ -8,6 +8,7 @@
 #Write your code below this line 👇
 print("Welcome to the tip calculator!")
 print("Let's calculate the tip")
+print("This is the change done by the collaborator")
 bill = input("what was the total bill? $")
 tip = input("how much tip would you like to give? 10,12,15 or 20? ")
 people = input("how many people to split the bill? ")
